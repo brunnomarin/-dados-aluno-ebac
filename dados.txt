@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Brunno
+-Profissão: Analista Financeiro 
+-Cidade: São Paulo
+-O que faz nas horas vaga: Viagens, futebol, cerveja.
+-Feedback sobre o curso Qualidade de Software: Curso excelente, estou gostando bastante do conteúdo.
+-Feedback sobre a plataforma de estudo da EBAC: Fácil de utilizar e bem explicativa.
 
 Obrigado!!!
 
